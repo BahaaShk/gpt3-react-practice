@@ -1,0 +1,13 @@
+.gpt3__scroll{
+    color: white;
+padding: 0.7rem 0.7rem;
+    background-color: #FF4820;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+}
